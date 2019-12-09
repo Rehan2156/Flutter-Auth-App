@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7991020712",
+    "firebase_url": "https://food-junction-2156.firebaseio.com",
+    "project_id": "food-junction-2156",
+    "storage_bucket": "food-junction-2156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7991020712:android:73cfd5fb46aac96c2c069d",
+        "android_client_info": {
+          "package_name": "com.example.flutterdemo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7991020712-rh8aon0o26jblah878nq2g01eh4kag2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxMf2LNGJqnfen8vs7yHkwvDdhkWv81A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7991020712-rh8aon0o26jblah878nq2g01eh4kag2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
