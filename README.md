@@ -1,6 +1,6 @@
-# flutterdemo_app
+# Flutter Auth App
 
-A new Flutter application.
+An authentication Flutter app to login, signup and logout.
 
 ## Getting Started
 
